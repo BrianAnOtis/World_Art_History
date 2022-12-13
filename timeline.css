@@ -71,7 +71,7 @@ nav {
 	position: fixed;
 	top: 72px;
 	width: 100%;
-	z-index: 69;
+	z-index: 60;
 }
 header {
 	background-color: #4775d1;
@@ -81,7 +81,7 @@ header {
 	position: fixed;
 	width: 100%;
 	top: 0;
-	z-index: 69;
+	z-index: 60;
 }
 
 .nav-item {
